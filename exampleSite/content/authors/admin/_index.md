@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: ll Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: ll Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
