@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Lija Alex # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Made with love - Lija Alex 2021' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -28,6 +28,7 @@ module:
 ############################
 ## ADVANCED
 ############################
+# enableBlogPost: true
 
 enableGitInfo: false
 summaryLength: 30

@@ -1,6 +1,6 @@
 ---
-title: Image Classifier Web App
-summary: A flask application which can classify images 
+title: Kerala Tourism Flutter App
+summary: An immersive reality application which can guide tourists who visit Kerala 
 tags:
 - Deep Learning
 date: "2019-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2019-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Lija Alex
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
