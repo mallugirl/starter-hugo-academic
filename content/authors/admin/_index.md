@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-<p> Lija Alex is a Software Engineer at EY with nearly 4 years of experience designing and building intelligent AI solutions. Her work focuses on Generative AI, Agentic AI, and RAG systems, with a passion for creating practical tools that solve real-world problems. She enjoys working at the intersection of creativity and logic—crafting AI assistants, automation systems, and smart applications that make a meaningful impact.
+<p> Lija Alex is a AI Engineer with nearly 4 years of experience designing and building intelligent AI solutions. Her work focuses on Generative AI, Agentic AI, and RAG systems, with a passion for creating practical tools that solve real-world problems. She enjoys working at the intersection of creativity and logic—crafting AI assistants, automation systems, and smart applications that make a meaningful impact.
 
 When she’s not deep in a model or designing workflows, you’ll find her exploring new ideas, sketching side projects, playing the guitar, or hunting for the perfect coffee. Lija blends curiosity, adaptability, and a love for learning—and a bit of artistic flair—into every solution she builds. <p>
 
