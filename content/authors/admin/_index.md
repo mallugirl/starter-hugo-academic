@@ -72,13 +72,9 @@ email: ""
 highlight_name: true
 ---
 
-<p> Lija Alex is a Senior AI Engineer with nearly 4 years of experience building impactful, end-to-end solutions in Generative AI, Agentic AI, and Retrieval-Augmented Generation (RAG). She focuses on creating intelligent systems that combine large language models, multimodal inputs, and autonomous agents to solve real-world problems.
+<p> Lija Alex is a Software Engineer at EY with nearly 4 years of experience designing and building intelligent AI solutions. Her work focuses on Generative AI, Agentic AI, and RAG systems, with a passion for creating practical tools that solve real-world problems. She enjoys working at the intersection of creativity and logic—crafting AI assistants, automation systems, and smart applications that make a meaningful impact.
 
-Lija has hands-on expertise in designing intelligent assistants, multi-agent orchestration frameworks, and RAG pipelines using cutting-edge tools such as LangChain, LlamaIndex, CrewAI, and AutoGen. Her technical strengths also span Computer Vision and Natural Language Processing, where she has developed solutions like facial recognition systems, inventory tracking platforms, and AI-powered content generation using models like YOLOv8, CLIP, Stable Diffusion, Whisper, and VGGFace.
-
-Proficient in Python, she builds scalable ML pipelines and applications using libraries and tools like Streamlit, OpenCV, and Mediapipe, and integrates them with cloud services like Azure and Google Cloud. She also has deep experience in prompt engineering, LLM fine-tuning, and vector database integration using FAISS and ChromaDB.
-
-With a strong foundation in AI architecture, a fast learning curve, and a passion for solving complex challenges, Lija brings a balance of innovation and execution to every AI project she takes on.<p>
+When she’s not deep in a model or designing workflows, you’ll find her exploring new ideas, sketching side projects, playing the guitar, or hunting for the perfect coffee. Lija blends curiosity, adaptability, and a love for learning—and a bit of artistic flair—into every solution she builds. <p>
 
 # Background
 
