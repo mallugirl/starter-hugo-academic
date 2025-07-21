@@ -69,8 +69,15 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+<!--
 Hi, I am Lija, Engineer, Free Thinker & Developer with insatiable ❤️ for learning & experimenting new things. Currently working from home & social distancing. Solid background in Machine learning, Statistics, Deep Learning. Exemplary leadership ability with a drive to motivate and assist others. Strong team leadership and committed to excellence through producing positive results. Self-motivated, punctual and reliable, and passionate about learning and building .
+-->
+
+Lija Alex is a Senior AI Engineer with close to 4 years of experience, specializing in Generative AI, Agentic AI, and Retrieval-Augmented Generation (RAG) systems. She has architected and implemented end-to-end solutions that combine large language models with vector search, autonomous agents, and multimodal inputs. Her work spans intelligent assistants, multi-agent orchestration, and RAG pipelines built using frameworks such as LangChain, LlamaIndex, CrewAI, and AutoGen.
+
+Her technical expertise includes LLMs, prompt engineering, fine-tuning, and integration with vector databases like FAISS and ChromaDB. Lija has also developed advanced Computer Vision and NLP applications, including facial recognition systems, smart inventory tracking, and generative image pipelines using models like YOLOv8, CLIP, VGGFace, Stable Diffusion, and Whisper.
+
+She is proficient in developing ML pipelines with Python, and has hands-on experience in platforms like Azure ML Studio and Streamlit. 
 
 
 
