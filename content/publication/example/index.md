@@ -7,11 +7,7 @@ An Integrated Tourism Application"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Lija Alex
-- Amal Sebastian
-- Remya Raju
-- Afthab Nihar
-- S Nikhit
-
+- 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
