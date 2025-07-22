@@ -6,7 +6,7 @@ title: Lija Alex
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Application Developer
+role: AI Engineer
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -19,6 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
+- Generative AI
 - Natural Language Understanding
 - Robotics
 - Technology Learning
@@ -27,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.Tech, Computer Science and Engineering
+  - course: B.Tech(Hons), Computer Science and Engineering
     institution: St. Joseph's College of Engineering and Technology, Palai
     year: 2021
   # - course: MEng in Artificial Intelligence
